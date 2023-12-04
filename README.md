@@ -68,10 +68,10 @@ body::before {
 <h1><span class="yellow"><marquee behavior="alternate">!!! 河口湖から望む富士山 !!!</marquee></span></h1>
 <!--
 <div style="background-color:rgb(255,255,255,0.5);">
--->
-<p align="right">2023、河口湖_bann。</p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<p align="right">2023、河口湖_bann。</p>-->
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<!--
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
 	
@@ -81,9 +81,9 @@ body::before {
 <section><h4><span class="red">2023年12月2-3日</span><span class="white"></span></h4></section><br>
 
 	<br><br><p>河口湖カントリーコテージban！</p>
-
+-->
 <br>
-<p>以下、適当な写真集！</p>
+<p>12月2日、夕方の写真！</p>
 <a href="20231202_001.JPG" data-lightbox="abc"><img src="20231202_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_002.JPG" data-lightbox="abc"><img src="20231202_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_003.JPG" data-lightbox="abc"><img src="20231202_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -102,6 +102,7 @@ body::before {
 <a href="20231202_022.JPG" data-lightbox="abc"><img src="20231202_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_023.JPG" data-lightbox="abc"><img src="20231202_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_024.JPG" data-lightbox="abc"><img src="20231202_024.JPG" alt="サンプル画像" width="900" /></a>
+<p>12月3日、朝の写真！</p>
 <a href="20231202_034.JPG" data-lightbox="abc"><img src="20231202_034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_035.JPG" data-lightbox="abc"><img src="20231202_035.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_036.JPG" data-lightbox="abc"><img src="20231202_036.JPG" alt="サンプル画像" width="900" /></a>
@@ -113,7 +114,8 @@ body::before {
 <a href="20231202_042.JPG" data-lightbox="abc"><img src="20231202_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_043.JPG" data-lightbox="abc"><img src="20231202_043.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_070.JPG" data-lightbox="abc"><img src="20231202_070.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20231202_074.JPG" data-lightbox="abc"><img src="20231202_074.JPG" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="20231202_074.JPG" data-lightbox="abc"><img src="20231202_074.JPG" alt="サンプル画像" width="900" /></a>-->
 <br><br>
 <p>以下、動画<br><br>高速道路上から見えた富士山の勇姿</p>
 
