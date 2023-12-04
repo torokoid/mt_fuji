@@ -66,8 +66,9 @@ body::before {
 </p>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 河口湖から望む富士山 !!!</marquee></span></h1>
+<!--
 <div style="background-color:rgb(255,255,255,0.5);">
-
+-->
 <p align="right">2023、河口湖_bann。</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
