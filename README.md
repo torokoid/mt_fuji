@@ -61,13 +61,15 @@ body::before {
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
    
 </head>
+
+<body>
 <p class="note"><span class="blue">
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。</span>
 </p>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 河口湖から望む富士山 !!!</marquee></span></h1>
 
-<div style="background-color:rgb(255,255,255,0.5);">
+
 
 <p align="right">2023、河口湖_bann。</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -84,6 +86,7 @@ body::before {
 
 <br>
 <p>2023年12月2日、夕方の写真！</p>
+<div style="background-color:rgb(255,255,255,0.5);">
 <a href="20231202_001.JPG" data-lightbox="abc"><img src="20231202_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_002.JPG" data-lightbox="abc"><img src="20231202_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_003.JPG" data-lightbox="abc"><img src="20231202_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -127,7 +130,7 @@ body::before {
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yyDd0GfGsws?si=AnAfBOrDmktfOn2O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
+</div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -145,3 +148,6 @@ body::before {
  <footer>
  <span class="white">Copyright 2023/12/03 S.Hada</span>
  </footer>
+
+</body>
+</html>
