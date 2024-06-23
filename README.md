@@ -83,7 +83,7 @@ body::before {
 	<br><br><p>河口湖カントリーコテージban！</p>
 -->
 <br>
-<p>12月2日、夕方の写真！</p>
+<p>2023年12月2日、夕方の写真！</p>
 <a href="20231202_001.JPG" data-lightbox="abc"><img src="20231202_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_002.JPG" data-lightbox="abc"><img src="20231202_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_003.JPG" data-lightbox="abc"><img src="20231202_003.JPG" alt="サンプル画像" width="900" /></a>
