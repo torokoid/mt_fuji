@@ -66,12 +66,12 @@ body::before {
 </p>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 河口湖から望む富士山 !!!</marquee></span></h1>
-<!--
+
 <div style="background-color:rgb(255,255,255,0.5);">
 
-<p align="right">2023、河口湖_bann。</p>-->
+<p align="right">2023、河口湖_bann。</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<!--
+
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
 	
@@ -81,7 +81,7 @@ body::before {
 <section><h4><span class="red">2023年12月2-3日</span><span class="white"></span></h4></section><br>
 
 	<br><br><p>河口湖カントリーコテージban！</p>
--->
+
 <br>
 <p>2023年12月2日、夕方の写真！</p>
 <a href="20231202_001.JPG" data-lightbox="abc"><img src="20231202_001.JPG" alt="サンプル画像" width="900" /></a>
