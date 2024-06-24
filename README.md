@@ -66,6 +66,8 @@ body::before {
 <p class="note"><span class="blue">
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。</span>
 </p>
+<p align="left"> <img src="fuji.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 河口湖から望む富士山 !!!</marquee></span></h1>
 
